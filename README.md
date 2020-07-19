@@ -1,6 +1,6 @@
 ## React Calculator
 
-![front-page](https://raw.github.com/carloseduardofdelima/react-calculator/master/calc.PNG)
+![front-page](https://raw.github.com/carloseduardofdelima/React-Calculator/master/calc.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
