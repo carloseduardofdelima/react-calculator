@@ -6,4 +6,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-You can see this project on [Heroku](https://react-js-calc.herokuapp.com/).
+You can see this project on [Vercel](https://react-calculator-8b9ogmmwk-carloseduardofdelima.vercel.app/).
